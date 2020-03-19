@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "PEP",
+        "BWB"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:melon_seeds"
+        },
+        "W": {
+            "item": "minecraft:wheat_seeds"
+        },
+        "P": {
+            "item": "minecraft:pumpkin_seeds"
+        },
+        "E": {
+            "item": "minecraft:water_bucket"
+        },
+        "B": {
+            "item": "minecraft:beetroot_seeds"
+        }
+    },
+    "result": {
+        "item": "minecraft:milk_bucket",
+        "count": 1
+    }
+}

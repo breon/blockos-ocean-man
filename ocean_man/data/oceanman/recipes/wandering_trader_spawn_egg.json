@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#BF",
+        "SEC",
+        "YLR"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:blast_furnace"
+        },
+        "B": {
+            "item": "minecraft:brewing_stand"
+        },
+        "F": {
+            "item": "minecraft:fletching_table"
+        },
+        "S": {
+            "item": "minecraft:smithing_table"
+        },
+        "E": {
+            "item": "minecraft:emerald_block"
+        },
+        "C": {
+            "item": "minecraft:cartography_table"
+        },
+        "Y": {
+            "item": "minecraft:smoker"
+        },
+        "L": {
+            "item": "minecraft:loom"
+        },
+        "R": {
+            "item": "minecraft:lectern"
+        }
+    },
+    "result": {
+        "item": "minecraft:wandering_trader_spawn_egg",
+        "count": 1
+    }
+}

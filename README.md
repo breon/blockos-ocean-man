@@ -32,4 +32,4 @@ The Ocean Man Challenge uses "buffet" world generation to create an infinite, de
 * Select **Bonus Chest: ON** (important)
 
 # Getting Started
-You'll spawn into the world and immediately fall into the ocean, next to the bonus chest. Swim to the surface and grab the gear from the chest. It should include some wood, tools and food. Use the wood to create a crafting and place it under the chest (shift+click). This will give you a very small ledge to stand on. If you have any remaining planks, make a boat. Explore the world and find some shipwrecks. The have good loot. Saplings are only available from Wandering Traders.
+You'll spawn into the world and immediately fall into the ocean, next to the bonus chest. Swim to the surface and grab the gear from the chest. It should include some wood, tools and food. Use the wood to create a crafting table and place it under the chest (shift+click). This will give you a very small ledge to stand on. If you have any remaining planks, make a boat. Explore the world and find some shipwrecks. The have good loot. Saplings are only available from Wandering Traders.
